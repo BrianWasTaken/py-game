@@ -1,6 +1,6 @@
 class NeverGonna():
   def __init__(Give):
-    self.YouUp = 'let you down'
+    self.you_up = 'neverr gonna let you down'
   
-  def NeverLetYouDown():
-    return 'Say Goodbye'
+  def never_gonna_run_around():
+    return 'and desert you'
